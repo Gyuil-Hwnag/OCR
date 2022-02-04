@@ -4,3 +4,4 @@
 
 - Parsing
 1. Apache tika
+2. pdfminer
