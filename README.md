@@ -7,6 +7,7 @@
 2. pdfminer
 
 - Word Preprocessing
-1. word tokenizer
-2. NLP
-3. text data set preprocessing
+1. pdf to txt || csv
+2. word tokenizer
+3. NLP
+4. text data set preprocessing
