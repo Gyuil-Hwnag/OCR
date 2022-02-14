@@ -6,4 +6,7 @@
 1. Apache tika
 2. pdfminer
 
-- NLP
+- Word Preprocessing
+1. word tokenizer
+2. NLP
+3. text data set preprocessing
