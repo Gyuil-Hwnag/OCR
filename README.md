@@ -11,3 +11,8 @@
 2. word tokenizer
 3. NLP
 4. text data set preprocessing
+
+- Pdf Summarize
+1. nltk
+2. sent_tokenize
+3. Word2Vec
