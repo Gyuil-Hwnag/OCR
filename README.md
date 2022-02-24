@@ -12,7 +12,7 @@
 3. NLP
 4. text data set preprocessing
 
-- Pdf Summarize
+- Pdf Summarize (not def & def)
 1. nltk
 2. sent_tokenize
 3. Word2Vec
