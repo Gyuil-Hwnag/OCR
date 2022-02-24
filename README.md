@@ -12,8 +12,9 @@
 3. NLP
 4. text data set preprocessing
 
-- Pdf Summarize (Word2Vec, gensim)
+- Pdf Summarize (Word2Vec, gensim, pysummarization)
 1. nltk
 2. sent_tokenize
 3. Word2Vec
 4. gensim
+5. pysummarization
